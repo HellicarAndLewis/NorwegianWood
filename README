@@ -1,0 +1,42 @@
+Norwegian Wood
+
+An installation by Hellicar&Lewis.
+http://hellicarandlewis.com
+http://www.hellicarandlewis.com/2011/03/02/norwegian-wood/
+
+Compatible with of_preRelease_v0062_osxSL_FAT
+
+http://openframeworks.cc
+http://openframeworks.cc/download
+
+Thanks to the whole OpenFrameworks community.
+
+Requires a Video Camera and Working Audio Input.
+
+Run Norwegian Wood app to see the four interactive scenes that react to audio. Press keys 1-4 to change scenes.
+Run the Shape Drawing app to draw new polygon shapes.
+
+Uses:
+
+The initial animation of the grass blades was based on the reach2 demo from http://processing.org which was based on code from Keith Peters. 
+
+http://www.bit-101.com
+
+ofxNoise by Rui Madeira 
+
+http://ruim.pt
+
+http://code.google.com/p/ruicode/
+ofxNoise_001c.zip is the download that I used.
+
+ofxBox2d by Todd Vanderlin
+
+http://vanderlin.cc
+
+https://github.com/vanderlin/ofxBox2d
+
+ofxControlPanel by Theo Watson
+
+http://theowatson.com/
+
+https://github.com/ofTheo/ofxControlPanel
